@@ -17,3 +17,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: Echo Terminal
         run: echo Hello, world!
+
+      - name: Di la fecha HOY
+        run : date
