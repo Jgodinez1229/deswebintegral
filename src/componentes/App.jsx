@@ -6,7 +6,7 @@ function App() {
       <NavBar />
       <div className="container mt-4">
         <div className="text-center">
-          <h2 className="display-4">¡Bienvenido a mi Página Web, Soy Josué Omar Núñez Godínez!</h2>
+          <h2 className="display-4">¡Bienvenido a mi Página Web, Soy Josué Omar Núñez Godínez - GIDS5093!</h2>
           <p className="lead">Esta aplicación fue creada con React y Bootstrap.</p>
         </div>
         <hr />
