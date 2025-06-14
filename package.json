@@ -1,6 +1,7 @@
 {
   "name": "webapp-jong",
   "version": "0.1.0",
+  "homepage": "https://Jgodinez1229.github.io/deswebintegral",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
